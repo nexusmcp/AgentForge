@@ -1,6 +1,8 @@
 # AgentForge
 
-<img src="docs/logo.png" width="200" alt="AgentForge Logo">
+<div align="center">
+  <img src="docs/logo.png" width="400" alt="AgentForge Logo">
+</div>
 
 AgentForge is a distributed multi-agent framework for building and deploying autonomous systems. It provides robust orchestration of concurrent workflows, real-time data processing, and intelligent task management.
 
