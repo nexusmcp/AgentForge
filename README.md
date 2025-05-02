@@ -369,7 +369,7 @@ agentforge/
 - Health check endpoints
 - Performance profiling
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -398,7 +398,7 @@ sphinx-build -b html docs/source docs/build
 - Load testing
 - Security testing
 
-## 📚 Documentation
+## Documentation
 
 Comprehensive documentation is available at [docs.agentforge.io](https://docs.agentforge.io):
 - Getting Started Guide
@@ -409,23 +409,11 @@ Comprehensive documentation is available at [docs.agentforge.io](https://docs.ag
 - Performance Tuning
 - Security Considerations
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-This is an experimental framework. Use at your own risk for cryptocurrency operations. The authors and contributors are not responsible for any financial losses incurred through the use of this software.
-
-### Risk Factors
-- Market volatility
-- Smart contract risks
-- Network congestion
-- API reliability
-- Price oracle accuracy
-- Gas price fluctuations
-
-## 🔮 Future Roadmap
+## Future Roadmap
 
 ### Q2 2024
 - Cross-chain arbitrage support
@@ -442,7 +430,7 @@ This is an experimental framework. Use at your own risk for cryptocurrency opera
 - NFT market analysis
 - Advanced portfolio management
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 Special thanks to:
 - The Ethereum community
