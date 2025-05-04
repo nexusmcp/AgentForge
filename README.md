@@ -255,7 +255,7 @@ task = AnalysisTask(
 )
 ```
 
-## 🔧 Advanced Configuration
+##  Advanced Configuration
 
 ### Environment Variables
 ```bash
@@ -312,7 +312,7 @@ NETWORK_CONFIG = {
 }
 ```
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 agentforge/
@@ -343,7 +343,7 @@ agentforge/
     └── curve/           → Curve protocol integration
 ```
 
-## 🔬 Advanced Features
+##  Advanced Features
 
 ### Memory Management
 - Intelligent caching strategies
